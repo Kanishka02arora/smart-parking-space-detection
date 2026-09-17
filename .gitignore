@@ -1,0 +1,18 @@
+# Python byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Data directory contents (ignore data files except .gitkeep)
+data/*
+!data/.gitkeep
